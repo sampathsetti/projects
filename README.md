@@ -1,2 +1,0 @@
-# projects
-model based design 
